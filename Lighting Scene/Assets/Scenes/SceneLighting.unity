@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 454285939}
   - component: {fileID: 454285938}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Area Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -210,11 +210,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454285937}
   m_LocalRotation: {x: 0.15351154, y: -0.32590693, z: -0.71177, w: 0.6029945}
-  m_LocalPosition: {x: 1.67, y: 0.41, z: 3.53}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 5.566666, y: 1.3666666, z: 11.766665}
+  m_LocalScale: {x: 3.3333328, y: 3.3333333, z: 3.3333335}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_Father: {fileID: 1064704919}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: -16.189, y: -39.555, z: -93.604}
 --- !u!1 &665012476
 GameObject:
@@ -435,6 +435,7 @@ Transform:
   - {fileID: 665012480}
   - {fileID: 1201339985}
   - {fileID: 1852185771}
+  - {fileID: 454285939}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
